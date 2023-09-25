@@ -1,0 +1,6 @@
+[submodule "esc.calwc.front"]
+	path = esc.calwc.front
+	url = https://github.com/ajsib/esc.calwc.front
+[submodule "esc.calwc.back"]
+	path = esc.calwc.back
+	url = https://github.com/ajsib/esc.calwc.back
